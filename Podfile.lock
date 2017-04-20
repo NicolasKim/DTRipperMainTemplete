@@ -1,0 +1,28 @@
+PODS:
+  - DTRipper (0.0.3):
+    - DTRouter
+  - DTRouter (1.0.2):
+    - DTRouter/Core (= 1.0.2)
+    - DTRouter/SDWebimageEx (= 1.0.2)
+    - DTRouter/UI (= 1.0.2)
+  - DTRouter/Core (1.0.2)
+  - DTRouter/SDWebimageEx (1.0.2):
+    - DTRouter/Core
+    - SDWebImage (~> 4.0.0)
+  - DTRouter/UI (1.0.2):
+    - DTRouter/Core
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - DTRipper
+
+SPEC CHECKSUMS:
+  DTRipper: 537f00fec3a6dadab41c8e901892c3c459d29824
+  DTRouter: f2e992439c378f6f671e587b0d97660bba196111
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: 5284768a3443b29a4c26eb8c6bca17e4664dc0f8
+
+COCOAPODS: 1.1.1
