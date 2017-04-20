@@ -1,6 +1,7 @@
 Pods/
---TempleteMainProject--\.xcworkspace/
 
 --TempleteMainProject--\.xcodeproj/project\.xcworkspace/xcuserdata/*
 
 --TempleteMainProject--\.xcodeproj/xcuserdata/*
+
+--TempleteMainProject--\.xcworkspace/xcuserdata/*
